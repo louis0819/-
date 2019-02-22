@@ -3,6 +3,9 @@
 </br>1.基本資料管理</br>
 </br>2.進貨管理</br>
 </br>3.銷貨管理</br>
+</br></br>
+</br></br>
+</br></br>
 </br>客戶資料管理表單</br>
 </br></br>
 ![image](https://github.com/louis0819/ERP-System/blob/master/show1.jpg)
